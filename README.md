@@ -10,4 +10,3 @@ Link to Boston House Pricing: https://www.kaggle.com/datasets/vikrishnan/boston-
 Connect with me on LinkedIn: https://www.linkedin.com/in/cathyongly/ <br />
 Follow Women in AI Canada: https://ca.linkedin.com/showcase/women-in-ai-canada <br />
 Women in AI Canada: https://www.womeninai.co/canada <br />
-![image](https://user-images.githubusercontent.com/47376771/174876337-6ee10d66-6567-4066-8276-2b27aa423ac7.png)
