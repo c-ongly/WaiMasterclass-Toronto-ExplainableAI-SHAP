@@ -1,7 +1,9 @@
 # WaiMasterclass-Toronto-ExplainableAI-SHAP
 WaiMasterclass Toronto: Explainable AI - Shapley Values June 2022
 
-Link to Google Colab worksheet: 
+Links to Google Colab worksheet
+Housing Prices worksheet: https://colab.research.google.com/drive/16iUOnAMHA0OTIjnXTpmhv2FA4iy9nWCz?usp=sharing <br />
+Breast Cancer Worksheet: https://colab.research.google.com/drive/1RW762TFRQ1tirL31VbasE8cCcOK1Lov-?usp=sharing <br />
 
 How load Kaggle dataset onto Google Colab https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-colab-ea682569851a <br />
 Link to breast cancer dataset on Kaggle: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data <br />
